@@ -12,7 +12,7 @@ Demonstrate how organizations can apply due care and due diligence in informatio
 Explain how these mechanisms relate to laws, regulations, and ethical practices in identity protection.
 
 3. Technologies Used
-
+https://675ce0bd-964c-4f6b-93ac-d31816c73aa9-00-1yy5knhs0vjjb.picard.replit.dev/
 Python 3.8+ (core language)
 
 SQLite3 (lightweight local database)
